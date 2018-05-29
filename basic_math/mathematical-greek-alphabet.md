@@ -1,27 +1,30 @@
-## Mathematical Greek Alphabet
+##|Mathematical Greek Alphabet
 
 <br>
 
 | Upper-case | Lower-case | Name |
 |:-:|:-:|:-:|
-| A | \alpha | alpha |
-| B | \beta | beta |
-| \Gamma | \gamma | gamma |
-| \Delta | \delta | delta |
-| E | \epsilon | epsilon |
-| Z | \zeta | zeta |
-| H | \eta | eta |
-| \Theta | \theta | theta |
-| K | \kappa | kappa |
-| \Lambda | \lambda | lambda |
-| M | \mu | mu |
-| N | \nu | nu |
-| \Xi | \xi | xi |
-| \Pi | \pi | phi |
-| P | \rho | rho |
-| \Sigma | \sigma | sigma |
-| T | \tau | tau |
-| \Phi | \phi | phi |
-| X | \chi | chi |
-| \Psi | \psi | psi |
-| \Omega | \omega | omega |
+|Α|α|alpha|
+|Β|β|beta|
+|Γ|γ|gamma|
+|Δ|δ|delta|
+|Ε|ε|epsilon|
+|Ζ|ζ|zeta|
+|Η|η|eta|
+|Θ|θ|theta|
+|Ι|ι|iota|
+|Κ|κ|kappa|
+|Λ|λ|lambda|
+|Μ|μ|mu|
+|Ν|ν|nu|
+|Ξ|ξ|xei|
+|Ο|ο|omicron|
+|Π|π|pei|
+|Ρ|ρ|rho|
+|Σ|σ/ς|sigma|
+|Τ|τ|tau|
+|Υ|υ|upsilon|
+|Φ|φ|phei|
+|Χ|χ|khei|
+|Ψ|ψ|psei|
+|Ω|ω|omega|
