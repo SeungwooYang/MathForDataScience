@@ -2,7 +2,6 @@
 > To share mathematics for data science we've learned. :+1:
 
 <br/>
----
 
 ## Categories
 
