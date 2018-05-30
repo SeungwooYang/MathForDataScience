@@ -19,7 +19,7 @@
 
 ## DifferentialCalculus
 - [Differentiation In Python Using Sympy Module](differential_calculus/differentiation-in-python-using-sympy-module.md)
-
+- [Integration In Python Using Sympy Module](differential_calculus/integration-in-python-using-sympy-module.md)
 ## License
 
 <!-- &copy; 2018 Danial Nam(남대현/南大铉) -->
