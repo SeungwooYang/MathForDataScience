@@ -18,6 +18,7 @@
 - [What is vector](linear_algebra/what-is-vector.md)
 
 ## DifferentialCalculus
+- [Differentiation In Python Using Sympy Module](differential_calculus/differentiation-in-python-using-sympy-module.md)
 
 ## License
 
