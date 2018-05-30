@@ -2,14 +2,6 @@
 > To share mathematics for data science we've learned. :+1:
 
 <br/>
-
-<!-- ### How to write
-```markdown
-## Title
-
-
-``` -->
-
 ---
 
 ## Categories
@@ -24,6 +16,7 @@
 - [Mathematical Greek Alphabet](basic_math/mathematical-greek-alphabet.md)
 
 ## LinearAlgebra
+- [What is vector](linear_algebra/what-is-vector.md)
 
 ## DifferentialCalculus
 
