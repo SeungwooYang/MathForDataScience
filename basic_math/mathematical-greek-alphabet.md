@@ -1,4 +1,4 @@
-##|Mathematical Greek Alphabet
+## Mathematical Greek Alphabet
 
 <br>
 
